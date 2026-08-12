@@ -1,0 +1,13 @@
+/target
+.DS_Store
+.claude/
+Cargo 2.lock
+
+# Ad-hoc test/fuzzing artifacts left over from local runs against real targets
+--max-time
+/20
+form_action.txt
+form_method.txt
+fuzzing_output.txt
+input_fields.html
+input_fields.txt
